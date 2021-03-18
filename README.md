@@ -1,5 +1,5 @@
 - 👋 Ryan (he/him), UXR foodpanda APAC
-- 📫 LinkedIn: https://www.linkedin.com/in/ryanaugustinelim/ | Twitter: [@ryanaugustinel](https://twitter.com/ryanaugustinel)
+- 📫 LinkedIn: [Ryan Augustine Lim](https://www.linkedin.com/in/ryanaugustinelim/) | Twitter: [@ryanaugustinel](https://twitter.com/ryanaugustinel)
 
 <!---
 ryanfoodpanda/ryanfoodpanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
