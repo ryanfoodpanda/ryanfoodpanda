@@ -13,7 +13,7 @@
 | #379 Item First QC Experience Insights (Full Deck) | Touhid Kamal | [link](https://docs.google.com/presentation/d/1qQAEslezsfip6OqBVo-deyu-0W4iWS9wFstRSlxL46w/edit) |
 | #379 Analysis Doc | Touhid Kamal | [link](https://docs.google.com/document/d/1IZqsh1ZkIpVtfrzU6VMasneazD324M6HvKYRVqibmbs/edit) |
 | #317 QC Problem Sizing Survey | Sofia Pevganen | [link](https://docs.google.com/presentation/d/1IJ3-2htT36iebmGFqdTGihWQ7ZZetCfW5b5RALyhyFc/edit) |
-| #324 QC Search E2E Evaluation — Synthesis Report | Touhid Kamal | [link](https://docs.google.com/document/d/1UuE3G84YphAonJ43WVg0c2qGmgW6BNzGDkzXUTXZ_4U/edit) |
+| #324 QC Search E2E Evaluation — Insights Synthesis Report | Touhid Kamal | [link](https://docs.google.com/document/d/1UuE3G84YphAonJ43WVg0c2qGmgW6BNzGDkzXUTXZ_4U/edit) |
 | #324 QC Search: Item-led Discovery — Desk Research | Tijana Mesterovic | [link](https://docs.google.com/document/d/1e5j31ImoTWAFWZwAbDj_ELUyxXODjOAZnJO4uIMNJDQ/edit) |
 | #385 QC Longevity Discovery | Sena Aryananda | [link](https://docs.google.com/document/d/1PI13k4mb_krqgGH_laNyWoa0k-VfvehCbE9mg7sGETM/edit) |
 | #380 Fresh & Assortment Research Plan | Sofia Pevganen | [link](https://docs.google.com/document/d/14SHHbQmytEPnxOlv5sf2KhpCkDWkjDZvSrrQhvF_Grw/edit) |
@@ -25,10 +25,10 @@
 
 ## 1. Context & Triggers
 
-- Orders occasionally and non-habitually; QC grocery is not yet part of a weekly routine. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen); #379 Item First QC Experience, Full Deck (Touhid Kamal)
-- 76% of users know the specific item they want before opening the app — NTQC arrives with a predefined shopping list, not open-ended browsing intent. [evidence] — Source: #324 QC Search E2E, Desk Research (Tijana Mesterovic)
-- Orders are triggered by a specific top-up need (missing ingredient, last-minute restock) rather than planned bulk grocery runs. [evidence] — Source: #324 QC Search E2E, Synthesis Report (Touhid Kamal)
-- 80% of last orders were placed within 1–3 hours of the felt need — urgency is a secondary driver even for NTQC, though less acute than Active QC. [evidence] — Source: #324 QC Search E2E, Desk Research (Tijana Mesterovic)
+- Orders occasionally and non-habitually; QC grocery is not yet part of a weekly routine. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen); #379 Full Deck (Touhid Kamal)
+- 76% of users know the specific item they want before opening the app — NTQC arrives with a predefined shopping list, not open-ended browsing intent. [evidence] — Source: #324 Desk Research (Tijana Mesterovic)
+- Orders are triggered by a specific top-up need (missing ingredient, last-minute restock) rather than planned bulk grocery runs. [evidence] — Source: #324 Synthesis Report (Touhid Kamal)
+- 80% of last orders were placed within 1–3 hours of the felt need — urgency is a secondary driver even for NTQC, though less acute than Active QC. [evidence] — Source: #324 Desk Research (Tijana Mesterovic)
 - Typically orders for the household, not just themselves. [assumption — no NTQC-specific data on order-for context]
 
 **Assumption %**: 20%
@@ -37,11 +37,11 @@
 
 ## 2. Goals & Motivations
 
-- Primary goal when opening the app: find a single shop that stocks all needed list items at an acceptable price, ideally with a deal. [evidence] — Source: #379 Item First QC Experience, Full Deck (Touhid Kamal); P12 (CZ, NTQC)
-- "Successful order" means completing the basket without needing to split across multiple shops or make a second order. [evidence] — Source: #324 QC Search E2E, Synthesis Report (Touhid Kamal) — "New users hitting a wall"
-- Primary emotional driver: avoiding a physical store trip — convenience is the entry point, but it is conditional on price being comparable enough to justify the delivery cost. [evidence] — Source: #379 Item First QC Experience, Full Deck (Touhid Kamal); #317 QC Problem Sizing Survey (Sofia Pevganen)
+- Primary goal when opening the app: find a single shop that stocks all needed list items at an acceptable price, ideally with a deal. [evidence] — Source: #379 Full Deck (Touhid Kamal), P12 (CZ, NTQC)
+- "Successful order" means completing the basket without needing to split across multiple shops or make a second order. [evidence] — Source: #324 Synthesis Report (Touhid Kamal) — "New users hitting a wall"
+- Primary emotional driver: avoiding a physical store trip — convenience is the entry point, but it is conditional on price being comparable enough to justify the delivery cost. [evidence] — Source: #379 Full Deck (Touhid Kamal); #317 QC Problem Sizing Survey (Sofia Pevganen)
 - 31% of QC users (skewed toward lower-frequency/newer users) still prefer offline channels for grocery inspiration and social discovery. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen)
-- Constant mental calculation around delivery fees, small-order fees, and MOV — cost control is a primary motivator, not just a hygiene factor. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen); #379 Item First QC Experience, Full Deck (Touhid Kamal)
+- Constant mental calculation around delivery fees, small-order fees, and MOV — cost control is a primary motivator, not just a hygiene factor. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen); #379 Full Deck (Touhid Kamal)
 
 **Assumption %**: 0%
 
@@ -49,12 +49,12 @@
 
 ## 3. Mental Model & Behaviours
 
-- Navigates by browsing categories, not the search bar, for grocery — confirmed 8 of 12 participants in #379 bypassed search entirely for QC grocery tasks. [evidence] — Source: #379 Item First QC Experience, Full Deck (Touhid Kamal)
-- Mentally associates the app search bar with restaurant food delivery ("where do I find the burger place?"), not with grocery item lookup. [evidence] — Source: #379 Item First QC Experience, Full Deck (Touhid Kamal); P12 (CZ, NTQC): *"I would never type 'milk' into the search — that feels like I'm looking for a restaurant"*
-- Arrives with an e-commerce multi-cart mental model (built basket across Amazon, Lazada, Zalora): expects to add items from multiple shops into one unified cart. [evidence] — Source: #324 QC Search E2E, Synthesis Report (Touhid Kamal)
-- When the single-shop constraint surfaces (cannot mix carts), NTQC users experience confusion, stall, and frequently abandon the task rather than restructuring their basket. [evidence] — Source: #324 QC Search E2E, Synthesis Report (Touhid Kamal) — "single-shop constraint is a blocker for new users"
-- Decisiveness profile is Low to Mid: brand-agnostic for most grocery items, open to platform deal nudges, will switch shop if the anchor item is available at lower price with comparable delivery terms. [evidence] — Source: #379 Item First QC Experience, Analysis Doc (Touhid Kamal); confirmed across 12/12 participants for decisiveness dimension
-- 85% of users search for specific items rather than specific shops — NTQC is item-first, shop-follows. [evidence] — Source: #324 QC Search E2E, Desk Research (Tijana Mesterovic)
+- Navigates by browsing categories, not the search bar, for grocery — confirmed 8 of 12 participants in #379 bypassed search entirely for QC grocery tasks. [evidence] — Source: #379 Full Deck (Touhid Kamal)
+- Mentally associates the app search bar with restaurant food delivery ("where do I find the burger place?"), not with grocery item lookup. [evidence] — Source: #379 Full Deck (Touhid Kamal), P12 (CZ, NTQC): *"I would never type 'milk' into the search — that feels like I'm looking for a restaurant"*
+- Arrives with an e-commerce multi-cart mental model (built basket across Amazon, Lazada, Zalora): expects to add items from multiple shops into one unified cart. [evidence] — Source: #324 Synthesis Report (Touhid Kamal)
+- When the single-shop constraint surfaces (cannot mix carts), NTQC users experience confusion, stall, and frequently abandon the task rather than restructuring their basket. [evidence] — Source: #324 Synthesis Report (Touhid Kamal) — "single-shop constraint is a blocker for new users"
+- Decisiveness profile is Low to Mid: brand-agnostic for most grocery items, open to platform deal nudges, will switch shop if the anchor item is available at lower price with comparable delivery terms. [evidence] — Source: #379 Analysis Doc (Touhid Kamal); confirmed across 12/12 participants for decisiveness dimension
+- 85% of users search for specific items rather than specific shops — NTQC is item-first, shop-follows. [evidence] — Source: #324 Desk Research (Tijana Mesterovic)
 
 **Assumption %**: 0%
 
@@ -62,11 +62,11 @@
 
 ## 4. Pain Points
 
-- Single-shop constraint violates the multi-cart mental model and is the primary structural blocker: NTQC cannot complete a mixed-item basket across shops without re-planning from scratch. [evidence] — Source: #324 QC Search E2E, Synthesis Report (Touhid Kamal)
+- Single-shop constraint violates the multi-cart mental model and is the primary structural blocker: NTQC cannot complete a mixed-item basket across shops without re-planning from scratch. [evidence] — Source: #324 Synthesis Report (Touhid Kamal)
 - 40% of NTQC-proximate users blocked by affordability: price markups vs. supermarket, compounded by delivery fees and MOV thresholds, create a value gap that prevents conversion. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen)
 - 20% blocked by quality and trust, concentrated in fresh produce: fresh trust score 4.0/7 — significantly lower than platform average and below the threshold NTQC needs to commit. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen); #380 Fresh & Assortment Research Plan (Sofia Pevganen)
-- Discovery friction: category browsing is the NTQC default but the category taxonomy does not match a physical supermarket layout, creating disorientation. [evidence] — Source: #379 Item First QC Experience, Full Deck (Touhid Kamal)
-- Price markup vs. physical supermarket is perceived as high even when objectively comparable — the perceived value gap is as damaging as the actual price gap. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen); #379 Item First QC Experience, P12 (CZ) (Touhid Kamal)
+- Discovery friction: category browsing is the NTQC default but the category taxonomy does not match a physical supermarket layout, creating disorientation. [evidence] — Source: #379 Full Deck (Touhid Kamal)
+- Price markup vs. physical supermarket is perceived as high even when objectively comparable — the perceived value gap is as damaging as the actual price gap. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen); #379 Full Deck (Touhid Kamal), P12 (CZ)
 
 **Assumption %**: 0%
 
@@ -74,10 +74,10 @@
 
 ## 5. Jobs-to-be-Done
 
-- **Functional JTBD 1**: When I realise I'm missing a key ingredient or household item, I want to find everything I need in one shop so I can complete one order without a second trip or second order. [evidence] — Source: #324 QC Search E2E, Synthesis Report (Touhid Kamal); #379 Item First QC Experience, Full Deck (Touhid Kamal)
-- **Functional JTBD 2**: When I'm doing a grocery top-up, I want to avoid going to a physical store so I can save the time and effort of travelling and queueing. [evidence] — Source: #379 Item First QC Experience, Full Deck (Touhid Kamal); #317 QC Problem Sizing Survey (Sofia Pevganen)
-- **Functional JTBD 3**: When I pick a shop, I want to know upfront whether my full list is available so I don't have to abandon and restart my basket. [evidence] — Source: #324 QC Search E2E, Synthesis Report (Touhid Kamal)
-- **Emotional JTBD**: I want to feel confident that what arrives matches what I ordered — especially for fresh items — and that I wasn't overcharged compared to the supermarket. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen); #379 Item First QC Experience, P1 (CZ) (Touhid Kamal)
+- **Functional JTBD 1**: When I realise I'm missing a key ingredient or household item, I want to find everything I need in one shop so I can complete one order without a second trip or second order. [evidence] — Source: #324 Synthesis Report (Touhid Kamal); #379 Full Deck (Touhid Kamal)
+- **Functional JTBD 2**: When I'm doing a grocery top-up, I want to avoid going to a physical store so I can save the time and effort of travelling and queueing. [evidence] — Source: #379 Full Deck (Touhid Kamal); #317 QC Problem Sizing Survey (Sofia Pevganen)
+- **Functional JTBD 3**: When I pick a shop, I want to know upfront whether my full list is available so I don't have to abandon and restart my basket. [evidence] — Source: #324 Synthesis Report (Touhid Kamal)
+- **Emotional JTBD**: I want to feel confident that what arrives matches what I ordered — especially for fresh items — and that I wasn't overcharged compared to the supermarket. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen); #379 Full Deck (Touhid Kamal), P1 (CZ)
 
 **Assumption %**: 0%
 
@@ -85,9 +85,9 @@
 
 ## 6. Shop Selection Signals
 
-- The most expensive item in the basket anchors shop choice: NTQC selects the shop where the anchor item is available at the best price, then fills remaining items from that same shop. [evidence] — Source: #379 Item First QC Experience, Analysis Doc (Touhid Kamal) — confirmed as dominant selection logic across 12/12 sessions
-- Shop selection priority order: price of anchor item → delivery fee → MOV threshold → delivery time → shop trust. [evidence] — Source: #379 Item First QC Experience, Analysis Doc (Touhid Kamal)
-- A significant deal (voucher, percentage discount, or zero delivery fee) on the anchor item will override any nascent shop preference. [evidence] — Source: #379 Item First QC Experience, Full Deck (Touhid Kamal); #317 QC Problem Sizing Survey (Sofia Pevganen)
+- The most expensive item in the basket anchors shop choice: NTQC selects the shop where the anchor item is available at the best price, then fills remaining items from that same shop. [evidence] — Source: #379 Analysis Doc (Touhid Kamal) — confirmed as dominant selection logic across 12/12 sessions
+- Shop selection priority order: price of anchor item → delivery fee → MOV threshold → delivery time → shop trust. [evidence] — Source: #379 Analysis Doc (Touhid Kamal)
+- A significant deal (voucher, percentage discount, or zero delivery fee) on the anchor item will override any nascent shop preference. [evidence] — Source: #379 Full Deck (Touhid Kamal); #317 QC Problem Sizing Survey (Sofia Pevganen)
 - PandaMart / Foodora Market not yet established as a trusted default: NTQC has insufficient experience to distinguish first-party from third-party shops and does not prioritise platform-owned stores. [assumption — no NTQC-specific first-party trust data in indexed sources]
 
 **Assumption %**: 25%
@@ -97,9 +97,9 @@
 ## 7. Trust & Risk Tolerance
 
 - Fresh produce trust is significantly lower than for packaged goods: 4.0/7 for NTQC-proximate users — the "I can't see it before I buy it" concern is unresolved. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen); #380 Fresh & Assortment Research Plan (Sofia Pevganen)
-- NTQC checks shop reviews and ratings before committing to an unfamiliar vendor — social proof is a low-effort trust proxy. [evidence] — Source: #379 Item First QC Experience, Full Deck (Touhid Kamal)
-- Price discrepancy between app listing and perceived market price (supermarket mental benchmark) actively breaks trust and triggers session abandonment. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen); #379 Item First QC Experience, P12 (CZ) (Touhid Kamal): *"If the milk costs that much, I'll just go to Billa"*
-- Low overall risk tolerance: prefers well-known branded items over QC-exclusive or unbranded alternatives; avoids experimenting with unknown SKUs on a first order. [evidence] — Source: #379 Item First QC Experience, Full Deck (Touhid Kamal); decisiveness profile analysis
+- NTQC checks shop reviews and ratings before committing to an unfamiliar vendor — social proof is a low-effort trust proxy. [evidence] — Source: #379 Full Deck (Touhid Kamal)
+- Price discrepancy between app listing and perceived market price (supermarket mental benchmark) actively breaks trust and triggers session abandonment. [evidence] — Source: #317 QC Problem Sizing Survey (Sofia Pevganen); #379 Full Deck (Touhid Kamal), P12 (CZ): *"If the milk costs that much, I'll just go to Billa"*
+- Low overall risk tolerance: prefers well-known branded items over QC-exclusive or unbranded alternatives; avoids experimenting with unknown SKUs on a first order. [evidence] — Source: #379 Full Deck (Touhid Kamal); decisiveness profile analysis
 
 **Assumption %**: 0%
 
@@ -143,4 +143,4 @@
 - **Pro subscription consideration for new users**: No data on whether NTQC users encounter or consider Pro during onboarding; the subscription's role in reducing perceived affordability barriers for NTQC is entirely unmeasured.
 - **PandaMart / Foodora Market first-party trust**: Shop Selection Signals rely on general shop selection logic; no NTQC-specific data on awareness or trust of platform-owned storefronts.
 - **Competitor switching dynamics**: #317 captures offline-to-QC intent but does not distinguish churn to competitor apps (GrabMart, Getir, Gorillas) from churn back to physical stores. NTQC churn routing is unknown.
-- **#315 QC In-app Project**: File was inaccessible during archetype generation — revisit once access is confirmed.
+- **#315 QC In-app Project**: File was inaccessible during archetype generation — verify access and re-run if this study contains NTQC-relevant data.
