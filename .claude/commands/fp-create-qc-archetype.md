@@ -14,6 +14,8 @@ If fewer than 5 interview transcripts are provided, stop and say: **"Insufficien
 
 Read every file provided. For each file, note:
 - File name and type (transcript / survey / deck / quant data)
+- File URL (from the Google Drive link or Drive metadata `viewUrl`)
+- Researcher name (file owner from Drive metadata, or as credited in the document header/cover slide)
 - Key participant quotes (verbatim where possible)
 - Observed behaviours (what users did, not just what they said)
 - Recurring themes across participants
@@ -23,7 +25,7 @@ Cross-reference across sources. Where multiple sources agree on a behaviour or s
 ## Step 3 — Extract signals per archetype section
 
 Map your findings to these 8 sections. For each section, write 3–6 statements. Every statement must be tagged:
-- `[evidence]` — directly supported by participant quote, observation, or quant data. Cite source.
+- `[evidence]` — directly supported by participant quote, observation, or quant data. Cite source with researcher name.
 - `[assumption]` — inferred or extrapolated. Flag clearly.
 
 ### Section schema:
@@ -101,12 +103,16 @@ Output the archetype using exactly this format and save it to `.claude/archetype
 **Decisiveness Profile**: [Low / Mid / High — one sentence summary]
 **Confidence Score**: [X/10] — [Silver / Gold]
 **Generated**: [date]
-**Sources**: [list of file names used]
+**Sources**:
+
+| Study | Researcher | URL |
+|-------|-----------|-----|
+| [file name] | [researcher name] | [URL] |
 
 ---
 
 ## 1. Context & Triggers
-- [statement] [evidence] — Source: [file name], [participant ID or slide #]
+- [statement] [evidence] — Source: [file name] (Researcher: [name]), [participant ID or slide #]
 - [statement] [assumption]
 ...
 **Assumption %**: X%
